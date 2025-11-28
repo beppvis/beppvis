@@ -21,7 +21,7 @@ I am a Computer Science student passionate about **Systems Programming** and **G
 
 ## Competitive Programming Profiles
 
-<a href="https://www.hackerrank.com/beppvis"><img height="45" width="45" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
+<a href="https://www.hackerrank.com/visruthvijind"><img height="45" width="45" src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png"></a>
 <a href="https://www.codechef.com/users/beppvis" style="border-radius: 30%; height: 60px; width: 55px;"><img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" style="border-radius: 30%; height: 60px; width: 55px;"></a>
 <a href="https://codeforces.com/profile/beppvis"><img src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY" style="height: 60px; width: 55px;"></a>
 
